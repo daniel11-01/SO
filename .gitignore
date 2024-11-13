@@ -1,0 +1,14 @@
+# Ficheiros de backup do editor
+*~
+*.swp
+
+# Diretórios de sistema
+.DS_Store
+.Trash
+
+# Ficheiros temporários
+tmp/
+*.tmp
+
+# Logs
+*.log
