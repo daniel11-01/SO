@@ -1,0 +1,3 @@
+Este texto será salvo em saida.txt
+Digite 1 para continuar ou 0 para sair:
+Você escolheu continuar!
